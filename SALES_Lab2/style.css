@@ -1,0 +1,167 @@
+#sideNav {
+    background-color: lightpink;
+    text-align: center;
+    color: rgb(162, 0, 0)
+}
+
+img {
+    border-radius: 20%;
+    margin-top: 20;
+}
+
+}
+
+ul {
+    list-style: none;
+    padding-left: 20;
+    font-size: 20;
+    text-align: center;
+
+}
+
+a {
+    color: #bf233a;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%
+}
+
+#mainContent {
+    background-color: pink;
+    padding-top: 1em;
+}
+
+#resume-header h1 {
+    color: #ce2222;
+    font-family:sans-serif;
+}
+
+section h2 {
+    color: #ce2222;
+    font-family:sans-serif;
+    font-size: 1.5em
+}
+
+section h3 {
+    color: #ce2222;
+    font-family:sans-serif;
+    font-size: 1.3em
+}
+
+#Work-Experience {
+    color: maroon;
+    background-color: rgb(245, 207, 219);
+    padding-bottom: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 1em;
+    font-size: 1.2em;
+    font-style: italic;
+}
+
+#Work-Experience h1 {
+    color: salmon
+}
+
+#education {
+    color: rgb(245, 207, 219);
+    background-color: maroon;
+    padding-bottom: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 1em;
+        font-size: 1.2em;
+    font-style: italic;
+}
+
+#education h1 {
+    color: salmon
+}
+
+#Co-Curricular-Activities {
+    color: maroon;
+    background-color: rgb(245, 207, 219);
+    padding-bottom: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 1em;
+        font-size: 1.2em;
+    font-style: italic;
+}
+
+#Co-Curricular-Activities h1 {
+    color: salmon
+}
+#Seminars-Attended {
+    color: rgb(245, 207, 219);
+    background-color: maroon;
+    padding-bottom: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 1em;
+    font-size: 1.2em;
+    font-style: italic;
+}
+#Seminars-Attended h1 {
+    color: salmon
+}
+
+#Seminars-Conducted {
+    color: maroon;
+    background-color: rgb(245, 207, 219);
+    padding-bottom: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 1em;
+    font-size: 1.2em;
+    font-style: italic;
+}
+#Seminars-Conducted h1{
+    color: salmon
+}
+
+#Research-Papers-Prepared {
+    color: rgb(245, 207, 219);
+    background-color: maroon;
+    padding-bottom: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 1em;
+    font-size: 1.2em;
+    font-style: italic;
+}
+#Research-Papers-Prepared h1 {
+    color: salmon
+}
+
+#Personal-Background {
+    color: maroon;
+    background-color: rgb(245, 207, 219);
+    padding-bottom: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 1em;
+    font-size: 1.2em;
+    font-style: italic;
+}
+#Personal-Background h1 {
+    color: salmon
+}
+
+#REFERENCE {
+    color: rgb(245, 207, 219);
+    background-color: maroon;
+    padding-bottom: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 1em;
+    font-size: 1.2em;
+    font-style: italic;
+}
+#REFERENCE h1{
+    color: salmon
+}
